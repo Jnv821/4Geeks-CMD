@@ -1,0 +1,30 @@
+cd thecmdchallenge/
+
+Pwd
+
+ls -la
+
+ls -lar
+
+Clear, cls(win), Ctrl + L
+cd small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/ && cat trophy 
+
+Cd ./thecmdchallenge/funcode && find *.js
+
+ mkdir -p the-most-funny/not-that-funny
+
+cp ../boringfolder/event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception/the-mostboring-text.txt ../boringfolder/event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception/lol.txt
+
+mv kids.jpg  ./images/hello/
+
+rm -dr ../small-name/
+
+rm -dr ../small-name/
+
+find -name "*the-ultimate-joke.txt" | xargs cat
+
+rm  -r ../boringfolder/*
+
+vi kamehameha/dragon-ball-jokes.md 
+
+:q! (Salir de Vim + override)
